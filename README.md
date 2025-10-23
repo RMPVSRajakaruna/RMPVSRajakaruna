@@ -1,4 +1,4 @@
-# Hi, I'm Vihanga Sachintha Rajakaruna 👋
+# Hi, I'm a BSc (Hons) Software Engineering Undergraduate 👋
 
 <p align="left">
   <a href="https://github.com/viha-2002/github-readme-stats">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I'm a BSc (Hons) Software Engineering Undergraduate from Sri Lanka, passionate about building projects with JavaScript, C, and CSS. I'm always open to collaboration and exploring new opportunities.
+I'm based in Sri Lanka and passionate about building projects with JavaScript, C, and CSS, and I'm always open to collaboration and exploring new opportunities.
 
 <p align="left">
   <a href="https://linkedin.com/in/vihanga-sachintha-rajakaruna" target="_blank">
