@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/viha-2002/github-readme-stats">
-    <img alt="Vihanga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMPVSRajakaruna&layout=compact&theme=tokyonight&hide_border=true" />
+    <img alt="Vihanga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMPVSRajakaruna&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" />
   </a>
 </p>
 
