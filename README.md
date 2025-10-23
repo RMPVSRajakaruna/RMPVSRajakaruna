@@ -93,6 +93,6 @@ Here are some of the projects I've worked on, which are pinned on my profile.
 </p>
 <p align="center">
   <a href="https://github.com/RMPVSRajakaruna">
-    <img alt="Vihanga's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=viha-2002&theme=tokyonight&hide_border=true" />
+    <img alt="Vihanga's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RMPVSRajakaruna&theme=tokyonight&hide_border=true" />
   </a>
 </p>
