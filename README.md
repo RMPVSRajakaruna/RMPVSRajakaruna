@@ -19,7 +19,7 @@ I'm based in Sri Lanka and passionate about building projects with JavaScript, C
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=RMPVSRajakaruna&color=green)
 
 ---
 
