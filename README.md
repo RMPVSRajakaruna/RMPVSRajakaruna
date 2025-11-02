@@ -19,6 +19,10 @@ I'm based in Sri Lanka and passionate about building projects with JavaScript, C
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+
+---
+
 ## 🚀 What I'm Currently Learning
 
 I'm currently focused on diving deep into full-stack development and artificial intelligence.
