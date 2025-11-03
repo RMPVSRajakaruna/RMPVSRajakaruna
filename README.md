@@ -9,7 +9,7 @@
 I'm based in Sri Lanka and passionate about building projects with JavaScript, C, and CSS, and I'm always open to collaboration and exploring new opportunities.
 
 <p align="left">
-  <a href="https://linkedin.com/in/vihanga-sachintha-rajakaruna" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="mailto:vihanga1sachintha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/vihanga-sachintha-rajakaruna" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:vihanga1sachintha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
