@@ -73,17 +73,17 @@ Here are the tools and technologies I'm proficient with and have used in my proj
 
 Here are some of the projects I've worked on, which are pinned on my profile.
 
-* **[My Portfolio](https://github.com/RMPVSRajakaruna/My-Portfolio)** `[PHP]`
+* **[My Portfolio](https://github.com/RMPVSRajakaruna/My-Portfolio)** `[]`
     * My personal portfolio website, built to showcase my skills and projects.
-* **[SE4106 Project Group-11 (Parking Management System)](https://github.com/RMPVSRajakaruna/SE4106-Project-Group-11--Parking-Management-System)** `[JavaScript]`
+* **[SE4106 Project Group-11 (Parking Management System)](https://github.com/RMPVSRajakaruna/SE4106-Project-Group-11--Parking-Management-System)** `[]`
     * A group project for a smart parking management system.
-* **[Chatfronz/chattronz](https://github.com/Chatfronz/chattronz)** `[C++]`
+* **[Chatfronz/chattronz](https://github.com/Chatfronz/chattronz)** `[]`
     * A chat application developed as part of a collaborative effort.
-* **[GPA Calculator](https://github.com/RMPVSRajakaruna/GPA-Calculator)** `[CSS]`
+* **[GPA Calculator](https://github.com/RMPVSRajakaruna/GPA-Calculator)** `[]`
     * A simple and clean interface for calculating Grade Point Average.
-* **[web-frontend](https://github.com/RMPVSRajakaruna/web-frontend)** `[JavaScript]`
+* **[web-frontend](https://github.com/RMPVSRajakaruna/web-frontend)** `[]`
     * A repository for exploring and building various web frontend components.
-* **[Web Learnings](https://github.com/RMPVSRajakaruna/Web-Learnings)** `[JavaScript]`
+* **[Web Learnings](https://github.com/RMPVSRajakaruna/Web-Learnings)** `[]`
     * A collection of my practice files and small projects while learning web technologies.
 
 ---
