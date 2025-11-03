@@ -88,6 +88,13 @@ Here are some of the projects I've worked on, which are pinned on my profile.
 
 ---
 
+### 🟩 GitHub Contribution
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RMPVSRajakaruna&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
 ## 📊 My GitHub Stats
 
 <p align="center">
