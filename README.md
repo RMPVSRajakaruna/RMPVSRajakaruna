@@ -104,8 +104,10 @@ Here are some of the projects I've worked on, which are pinned on my profile.
     <img alt="Vihanga's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RMPVSRajakaruna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/RMPVSRajakaruna">
-    <img alt="Vihanga's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RMPVSRajakaruna&theme=tokyonight&hide_border=true" />
+    <img alt="Vihanga's GitHub Streak" src="https://streak-stats.demolab.com?user=RMPVSRajakaruna&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
