@@ -84,11 +84,11 @@ Here are some of the projects I've worked on, which are pinned on my profile.
 ---
 
 ### 🟩 GitHub Contribution
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RMPVSRajakaruna&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</p> -->
 
-[![Vihanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RMPVSRajakaruna)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RMPVSRajakaruna&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p> 
+
 ---
 
 #### 🏆 GitHub Trophies
@@ -101,32 +101,8 @@ Here are some of the projects I've worked on, which are pinned on my profile.
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <svg width="200" height="200" viewBox="0 0 36 36">
-    <path
-      stroke="#2d3748"
-      stroke-width="3.8"
-      fill="none"
-      d="M18 2.0845
-         a 15.9155 15.9155 0 0 1 0 31.831
-         a 15.9155 15.9155 0 0 1 0 -31.831"
-    />
-    <path
-      stroke="#8b5cf6"
-      stroke-width="3.8"
-      stroke-linecap="round"
-      fill="none"
-      stroke-dasharray="78, 100"
-      d="M18 2.0845
-         a 15.9155 15.9155 0 0 1 0 31.831
-         a 15.9155 15.9155 0 0 1 0 -31.831"
-    />
-    <text x="18" y="20.35" fill="#8b5cf6" font-size="8" text-anchor="middle" dominant-baseline="central">
-      78%
-    </text>
-    <text x="18" y="26" fill="#ffffff" font-size="3" text-anchor="middle" dominant-baseline="central">
-      GitHub Contribution Level
-    </text>
-  </svg>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RMPVSRajakaruna&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RMPVSRajakaruna&theme=tokyonight" />
 </p>
 
 
