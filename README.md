@@ -100,9 +100,15 @@ Here are some of the projects I've worked on, which are pinned on my profile.
 
 ## 📊 My GitHub Stats
 
+## 📊 My GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RMPVSRajakaruna&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RMPVSRajakaruna&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RMPVSRajakaruna&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RMPVSRajakaruna&theme=tokyonight" height="180" />
 </p>
+
+---
+
+⭐ **Thanks for visiting my profile! Feel free to explore my projects and connect with me.**
 
 
