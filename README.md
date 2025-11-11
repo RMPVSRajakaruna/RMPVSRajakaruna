@@ -2,9 +2,13 @@
 
 <p align="left">
   <a href="https://github.com/viha-2002/github-readme-stats">
-    <img alt="Vihanga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMPVSRajakaruna&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" />
+    <img 
+      alt="Vihanga's Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMPVSRajakaruna&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=2"
+    />
   </a>
 </p>
+
 
 I'm based in Sri Lanka and passionate about building projects with JavaScript, C, and CSS, and I'm always open to collaboration and exploring new opportunities.
 
