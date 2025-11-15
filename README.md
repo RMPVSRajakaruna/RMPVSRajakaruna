@@ -1,10 +1,10 @@
 # Hi, I'm a BSc (Hons) Software Engineering Undergraduate 👋
 
 <p align="left">
-  <a href="https://github.com/viha-2002/github-readme-stats">
+  <a href="https://github.com/Vihangasachintha/github-readme-stats">
     <img 
       alt="Vihanga's Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMPVSRajakaruna&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=2"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihangasachintha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&v=2"
     />
   </a>
 </p>
@@ -74,17 +74,17 @@ Here are the tools and technologies I'm proficient with and have used in my proj
 
 Here are some of the projects I've worked on, which are pinned on my profile.
 
-* **[My Portfolio](https://github.com/RMPVSRajakaruna/My-Portfolio)** `[]`
+* **[My Portfolio](https://github.com/Vihangasachintha/My-Portfolio)** `[]`
     * My personal portfolio website, built to showcase my skills and projects.
-* **[SE4106 Project Group-11 (Parking Management System)](https://github.com/RMPVSRajakaruna/SE4106-Project-Group-11--Parking-Management-System)** `[]`
+* **[SE4106 Project Group-11 (Parking Management System)](https://github.com/Vihangasachintha/SE4106-Project-Group-11--Parking-Management-System)** `[]`
     * A group project for a smart parking management system.
 * **[Chatfronz/chattronz](https://github.com/Chatfronz/chattronz)** `[]`
     * A chat application developed as part of a collaborative effort.
-* **[GPA Calculator](https://github.com/RMPVSRajakaruna/GPA-Calculator)** `[]`
+* **[GPA Calculator](https://github.com/Vihangasachintha/GPA-Calculator)** `[]`
     * A simple and clean interface for calculating Grade Point Average.
-* **[web-frontend](https://github.com/RMPVSRajakaruna/web-frontend)** `[]`
+* **[web-frontend](https://github.com/Vihangasachintha/web-frontend)** `[]`
     * A repository for exploring and building various web frontend components.
-* **[Web Learnings](https://github.com/RMPVSRajakaruna/Web-Learnings)** `[]`
+* **[Web Learnings](https://github.com/Vihangasachintha/Web-Learnings)** `[]`
     * A collection of my practice files and small projects while learning web technologies.
 
 ---
@@ -92,14 +92,14 @@ Here are some of the projects I've worked on, which are pinned on my profile.
 ### 🟩 GitHub Contribution
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RMPVSRajakaruna&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vihangasachintha&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p> 
 
 ---
 
 #### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RMPVSRajakaruna&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vihangasachintha&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -107,8 +107,8 @@ Here are some of the projects I've worked on, which are pinned on my profile.
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RMPVSRajakaruna&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RMPVSRajakaruna&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vihangasachintha&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vihangasachintha&theme=tokyonight" height="180" />
 </p>
 
 ---
