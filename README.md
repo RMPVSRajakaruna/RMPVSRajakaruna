@@ -1,6 +1,8 @@
 # Hi, I'm a BSc (Hons) Software Engineering Undergraduate 👋
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif" width="300"/>
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif" width="600">
+</p>
 
 <p align="left">
   <a href="https://github.com/Vihangasachintha/github-readme-stats">
