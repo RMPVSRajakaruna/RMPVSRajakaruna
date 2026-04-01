@@ -82,7 +82,7 @@ Here are some of the projects I've worked on, which are pinned on my profile.
     * My personal portfolio website, built to showcase my skills and projects.
 * **[SE4106 Project Group-11 (Parking Management System)](https://github.com/Vihangasachintha/SE4106-Project-Group-11--Parking-Management-System)** `[]`
     * A group project for a smart parking management system.
-* **[Chatfronz/chattronz](https://github.com/Chatfronz/chattronz)** `[]`
+* **[Chatfronz/chattranz](https://github.com/Chatfronz/chattronz)** `[]`
     * A chat application developed as part of a collaborative effort.
 * **[GPA Calculator](https://github.com/Vihangasachintha/GPA-Calculator)** `[]`
     * A simple and clean interface for calculating Grade Point Average.
