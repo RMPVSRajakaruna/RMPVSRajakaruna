@@ -81,7 +81,7 @@ Here are some of the projects I've worked on, which are pinned on my profile.
 * **[My Portfolio](https://github.com/Vihangasachintha/My-Portfolio)** `[]`
     * My personal portfolio website, built to showcase my skills and projects.
 * **[Parking Management System](https://github.com/Vihangasachintha/SE4106-Project-Group-11--Parking-Management-System)** **(Group — Team Lead)**
-    * React.js | Node.js | MongoDB | Tailwind CSS
+    <br> React.js | Node.js | MongoDB | Tailwind CSS
     * A group project for a smart parking management system.
 * **[Chatfronz/chattranz](https://github.com/Chatfronz/chattronz)** `[]`
     * A chat application developed as part of a collaborative effort.
