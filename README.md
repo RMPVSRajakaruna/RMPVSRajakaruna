@@ -78,8 +78,44 @@ Here are the tools and technologies I'm proficient with and have used in my proj
 
 Here are some of the projects I've worked on, which are pinned on my profile.
 
-* **[My Portfolio](https://github.com/Vihangasachintha/My-Portfolio)** `[]`
-    * My personal portfolio website, built to showcase my skills and projects.
+### 🎓 [Integrated Academic Information System](https://github.com/Integrated-Academic-Information-System) *(Group — Team Lead)*
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+Role-based mark management system with JWT auth, RESTful APIs, real-time results, and automated PDF/Excel report generation.
+
+---
+
+### 🎬 [MovieHub Mobile App](https://github.com/Vihangasachintha/movie-app) *(Individual)*
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat&logo=appwrite&logoColor=white)
+![TMDB](https://img.shields.io/badge/TMDB-01B4E4?style=flat&logo=themoviedatabase&logoColor=white)
+
+Cross-platform movie discovery app with real-time search across 500,000+ titles, personalized trending algorithm, and optimized dark-themed UI.
+
+---
+
+### 🛍️ [Velora Cosmetics](https://github.com/Vihangasachintha/web-frontend-learnings) *(Individual)*
+![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+Full-stack e-commerce platform with secure JWT auth, product browsing, cart management, and order processing via RESTful APIs.
+
+---
+
+### 💬 [ChatTranz](https://github.com/ChatTranz/chattranz) *(Group — Team Lead)*
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
+
+Real-time chat app with live message translation across 25+ languages, sub-second delivery via Firebase, and WebRTC peer-to-peer communication.
+
 ### 🚗 [Parking Management System](https://github.com/...) *(Group — Team Lead)*
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -87,14 +123,6 @@ Here are some of the projects I've worked on, which are pinned on my profile.
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 Full-stack parking system with role-based access, real-time slot tracking, permit management, and automated vehicle registration workflows.
-* **[Chatfronz/chattranz](https://github.com/Chatfronz/chattronz)** `[]`
-    * A chat application developed as part of a collaborative effort.
-* **[GPA Calculator](https://github.com/Vihangasachintha/GPA-Calculator)** `[]`
-    * A simple and clean interface for calculating Grade Point Average.
-* **[web-frontend](https://github.com/Vihangasachintha/web-frontend)** `[]`
-    * A repository for exploring and building various web frontend components.
-* **[Web Learnings](https://github.com/Vihangasachintha/Web-Learnings)** `[]`
-    * A collection of my practice files and small projects while learning web technologies.
 
 ---
 
