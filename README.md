@@ -80,9 +80,13 @@ Here are some of the projects I've worked on, which are pinned on my profile.
 
 * **[My Portfolio](https://github.com/Vihangasachintha/My-Portfolio)** `[]`
     * My personal portfolio website, built to showcase my skills and projects.
-* **[Parking Management System](https://github.com/Vihangasachintha/SE4106-Project-Group-11--Parking-Management-System)** **(Group — Team Lead)**
-    <br> React.js | Node.js | MongoDB | Tailwind CSS
-    * A group project for a smart parking management system.
+### 🚗 [Parking Management System](https://github.com/...) *(Group — Team Lead)*
+![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+Full-stack parking system with role-based access, real-time slot tracking, permit management, and automated vehicle registration workflows.
 * **[Chatfronz/chattranz](https://github.com/Chatfronz/chattronz)** `[]`
     * A chat application developed as part of a collaborative effort.
 * **[GPA Calculator](https://github.com/Vihangasachintha/GPA-Calculator)** `[]`
