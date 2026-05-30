@@ -76,7 +76,7 @@ Here are some of the projects I've worked on, which are pinned on my profile.
 
 ### 🎓 [Integrated Academic Information System](https://github.com/Integrated-Academic-Information-System) *(Group — Team Lead)*
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
